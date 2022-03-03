@@ -1,0 +1,8 @@
+-T 213.24.76.25 -P 1935 --protocol tcp -R on
+-T 213.24.76.25 -P 8080 --protocol tcp -R on
+-T 195.218.193.189 -P 5060 --protocol tcp -R on
+-T 95.173.148.51 -P 5060 --protocol tcp -R on
+-T 95.173.148.51 -P 554 --protocol tcp -R on
+-T 95.173.148.51 -P 53 --protocol udp -R on
+-T 95.173.148.50 -P 53 --protocol udp -R on
+
